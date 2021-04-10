@@ -1,7 +1,7 @@
 # Word Game
  Just a fun little word game that I created in Python.
  
- #Thanks To
+ # Thanks To
  
  @RazorSh4rk for the random word API used in this.
  
